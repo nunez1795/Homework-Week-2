@@ -5,12 +5,11 @@ When we speak about the Web we must cover the internet. The internet is a backbo
 of a millions of networks to be connected to each other. It has services that use it
 to be able to reach millions of people. The Web is one if not the largest of these services.
 So how does the Web work or better yet how do we interact with the Web. We have done many
-times without thinking about. The first thing we do is open a **[browser](####WebBrowser)_** and enter an
+times without thinking about. The first thing we do is open a **_[browser](#### Web-Browser)_** and enter an
 address (URL). For this to work we have **_[Domain Name](Domain Name System)_**. The sit must also be **_hosted_**
 somewhere to allows us to access it. After we enter the address a message is sent using **_HTTP_**
 to the server were this sit is stored. After all the background processes are finished in our
-**_browser_** we see the site. Sometime it is amazing that all this works. There are so many things
-that have to go right for this to happen every time to ask to see a sit.
+**_browser_** we see the site. Sometime it is amazing that all this works. There are so many things that have to go right for this to happen every time to ask to see a sit.
 
 #### Web Hosting
 Web Hosting is a service that allows you to be able to have you website put on the Web.
