@@ -1,7 +1,7 @@
 # Lets Put Week 2 All Together
 
 ## The Web
-![Image of Web](http://srs.io/s/a5bea1fcf2a98412)
+![Image of Web](https://media.serious.io/a5bea1fcf2a98412/serious.gif)
 When we speak about the Web we must cover the internet. The internet is a backbone
 of a millions of networks to be connected to each other. It has services that use it
 to be able to reach millions of people. The Web is one if not the largest of these services.
