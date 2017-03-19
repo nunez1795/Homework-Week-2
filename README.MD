@@ -1,6 +1,7 @@
 # Lets Put Week 2 All Together
 
 ## The Web
+![Image of Web](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjTw5un_uLSAhWD7YMKHRZ-Cy0QjRwIBw&url=https%3A%2F%2Fthegothamrogue.wordpress.com%2F2014%2F03%2F04%2Faround-the-web-week-9-rise-of-electro-hishe-batman-begins-stephanie-brown-top-comic-based-tweets%2F&psig=AFQjCNHaWjYW5vg68ZEkMjaTYXOGf0VmGw&ust=1490026985332995)
 When we speak about the Web we must cover the internet. The internet is a backbone
 of a millions of networks to be connected to each other. It has services that use it
 to be able to reach millions of people. The Web is one if not the largest of these services.
