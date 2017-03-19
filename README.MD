@@ -20,11 +20,10 @@ There are many methods that can bring this to life in programing. These list wil
 These steps are easy for computer to understand. They do well in following steps in order and can doing it very quickly. Algorithms also make it easy to see how well it can scale itself compared to its input. This is where Big O Analysis comes into play. **_Big O Analysis_** puts how well it can scale into a mathematical expression so you could better understand if the steps are being done as efficient as possible.  
 
 
-    
+
+
+
 ### Explanation of stand alone topics
-
-
-
 
 #### Web Hosting
 Web Hosting is a service that allows you to be able to have you website put on the Web.
