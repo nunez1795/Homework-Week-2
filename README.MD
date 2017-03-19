@@ -17,8 +17,10 @@ to the server were this sit is stored. After all the background processes are fi
 
 At its core algorithms are used to figure out how to do things in a step by step mode. It can be shown either by listing each step or using a flowchart. This helps with brain storming and seeing if any steps are being missed or how things are tied to each other.
 There are many methods that can bring this to life in programing. These list will help to see what type of Data Structures you would use. You could also see if you could use **_Recursion_**, **_Sorting_** or **_Functional Programming_** to make this come to fruition.   
-These steps are easy for computer to understand. They do well in following steps in order and can doing it very quickly. Algorithms also make it easy to see how well it can scale itself compared to its input. This is where Big O Analysis comes into play. **_Big O Analysis_** puts how well it can scale into a mathematical expression so you could better understand if the steps are being done as efficient as possible.
+These steps are easy for computer to understand. They do well in following steps in order and can doing it very quickly. Algorithms also make it easy to see how well it can scale itself compared to its input. This is where Big O Analysis comes into play. **_Big O Analysis_** puts how well it can scale into a mathematical expression so you could better understand if the steps are being done as efficient as possible.  
 
+
+    
 ### Explanation of stand alone topics
 
 
