@@ -45,7 +45,7 @@ You must make sure all your information for your website in accurate when you
 are registering it. If you make a mistake on this information if will cause you
 website to have errors and page-load failures. This will not allow people to view your website.
 
-#### Web Browser
+#### Web Browser {#mht}
 We all have used a browser. Some have used chrome or maybe Explore form Microsoft.
 But have you stop to think how it works.
 When you enter an address in the browser it send a request to the server were the
