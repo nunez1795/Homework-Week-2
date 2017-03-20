@@ -6,7 +6,7 @@ When we speak about the Web we must cover the internet. The internet is a backbo
 of a millions of networks to be connected to each other. It has services that use it
 to be able to reach millions of people. The Web is one if not the largest of these services.
 So how does the Web work or better yet how do we interact with the Web. We have done many
-times without thinking about. The first thing we do is open a **_[browser](####Web-Browser)_** and enter an
+times without thinking about. The first thing we do is open a **_[browser](WebBrowser)_** and enter an
 address (URL). For this to work we have **_Domain Name_**. The sit must also be **_hosted_**
 somewhere to allows us to access it. After we enter the address a message is sent using **_HTTP_**
 to the server were this sit is stored. After all the background processes are finished in our
@@ -45,7 +45,7 @@ You must make sure all your information for your website in accurate when you
 are registering it. If you make a mistake on this information if will cause you
 website to have errors and page-load failures. This will not allow people to view your website.
 
-#### Web Browser {#mht}
+#### Web Browser
 We all have used a browser. Some have used chrome or maybe Explore form Microsoft.
 But have you stop to think how it works.
 When you enter an address in the browser it send a request to the server were the
