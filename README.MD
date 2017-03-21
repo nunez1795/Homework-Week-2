@@ -45,7 +45,7 @@ You must make sure all your information for your website in accurate when you
 are registering it. If you make a mistake on this information if will cause you
 website to have errors and page-load failures. This will not allow people to view your website.
 
-#### <3 id="wb"></a> Web Browser
+#### <a id="wb"></a> Web Browser
 We all have used a browser. Some have used chrome or maybe Explore form Microsoft.
 But have you stop to think how it works.
 When you enter an address in the browser it send a request to the server were the
@@ -53,24 +53,24 @@ website is stored. After a couple of background communications happen a website
 is returned in HTML form. The browser then translates this and displays the website
 into a form that make sense to the user.
 
-#### <h id="ht"></a> HTTP
+#### <a id="ht"></a> HTTP
 HTTP is a type off communication that is used by the browser to be able to send request through the internet to request access to a website. This happens by the browser sending a request to the webserver using an HTTP. Then the server sends back an HTTP response which contains all the information that the browser will need to be able to display the website.
 The HTTP request is made up three parts. First would be the request line then you would have a request header and last the request body.  The HTTP response is made up of the same three parts expect they are called response instead of request.
 
 
-#### <d id="bo"></a> Big O Analysis
+#### <a id="bo"></a> Big O Analysis
 Big 0 Analysis is a mathematical expression used to figure out how well a program scales compared to its input. It takes into account best and worst case scenarios. The best case would be O(1) and this would be possibly in programs that are outputting a variable. It does not matter how long or short it is because it is only on step and nothing is being done to the variable just outputting. Next you have O(n) which is considered Fair. You then have O(n log n) falling into the Bad. The last ones are O(n^2), O(2^n) and O(n!) which all fall into horrible.
 The object is to write the best code possible. You will not always be in the Fair or Good range. But this would be the goal. There are many factors that would come into play. Sometimes for it to function and do the things you want it to do. It will not be in the fair band.
 The only thing you can do it wright the best code that you can.
 
-#### <e id="fp"></a> Functional Programing
+#### <a id="fp"></a> Functional Programing
 The main key ideal of Functional Programing is the execution of mathematical functions.
 In its self it is made of tool sets that are used to solve problems. It is deeply rooted in mathematical thinking. It is not language dependent. What makes it very different from other types of tools is that inputs once set cannot be changed. So this means it cannot use loops or counters. You would think this would make it impossible to write code to solve problems. But this is the simplicity of this tool.  In any language you will have trade off pros and cons. There is no difference with Functional Programing.
 
-#### <f id="re"></a> Recursion
+#### <a id="re"></a> Recursion
 Recursion is a function that calls itself. Since it calls itself you must first make sure that you can get out of the loop once you solve the problem or if you didn’t have to use it in the first place. If not you would end up in an endless loop. It allows you to write less code and be able to run it more efficient. For this to work you would need a stack. Since you are looping that gives you and output for each loop. This will continue till you get the result you are looking for. Since you are using the answer to feed the next loop. This is the reason you are in need of a stack.
 
-#### <g id="so"></a> Sorting
+#### <a id="so"></a> Sorting
 Sorting is the same meaning in programing as in the world around us. You are put things in order either by high to low or even by which page that has the most visitors. You can sort using any properties that you choose from. You would have to start with a list to be able to sort.  Why is sorting so important. It can be broken down using an example.
 If a list is stored as unsorted and you try to do a search. You would have to do a laniary search. This means you would have to start with the first element of the list and keep moving through it till you find the one you were looking for. In a worst case scenario, it could end up being the last one. This would not be very efficient and take a long time to run.  
 This is the reason that the most important thing to know about sorting is that you must start out with list.
