@@ -26,13 +26,13 @@ These steps are easy for computer to understand. They do well in following steps
 
 ### Explanation of stand alone topics  
 
-#### <aa id="web-hosting"></a> Web Hosting
+#### <a id="web-hosting"></a> Web Hosting
 Web Hosting is a service that allows you to be able to have you website put on the Web.
 This is possible because companies have servers were you are able to load your files that
 are needed for you website. You are basically renting the space out on the servers allowing
 other computer to be able to access your website through their servers.
 
-#### <2 id="dns"></a> Domain Name System
+#### <a id="dns"></a> Domain Name System
 A domain name is just the name of your website. It is the identity of your website.
 You have to have a domain name to be able to have a website.
 The domain name must also be registered for this to work. Think of a website as a
