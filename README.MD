@@ -7,7 +7,7 @@ of a millions of networks to be connected to each other. It has services that us
 to be able to reach millions of people. The Web is one if not the largest of these services.
 So how does the Web work or better yet how do we interact with the Web. We have done many
 times without thinking about. The first thing we do is open a **_[browser](Web_Browser)_** and enter an
-address (URL). For this to work we have **_Domain Name_**. The sit must also be **_[hosted](#web-hosting)_**
+address (URL). For this to work we have **_[Domain Name](#dns)_**. The sit must also be **_[hosted](#web-hosting)_**
 somewhere to allows us to access it. After we enter the address a message is sent using **_HTTP_**
 to the server were this sit is stored. After all the background processes are finished in our
 **_browser_** we see the site. Sometime it is amazing that all this works. There are so many things that have to go right for this to happen every time to ask to see a sit.
@@ -32,7 +32,7 @@ This is possible because companies have servers were you are able to load your f
 are needed for you website. You are basically renting the space out on the servers allowing
 other computer to be able to access your website through their servers.
 
-#### Domain Name System
+#### <b id="dns"></a> Domain Name System
 A domain name is just the name of your website. It is the identity of your website.
 You have to have a domain name to be able to have a website.
 The domain name must also be registered for this to work. Think of a website as a
