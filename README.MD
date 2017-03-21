@@ -26,13 +26,13 @@ These steps are easy for computer to understand. They do well in following steps
 
 ### Explanation of stand alone topics  
 
-#### <a id="web-hosting"></a> Web Hosting
+#### <1 id="web-hosting"></a> Web Hosting
 Web Hosting is a service that allows you to be able to have you website put on the Web.
 This is possible because companies have servers were you are able to load your files that
 are needed for you website. You are basically renting the space out on the servers allowing
 other computer to be able to access your website through their servers.
 
-#### <b id="dns"></a> Domain Name System
+#### <2 id="dns"></a> Domain Name System
 A domain name is just the name of your website. It is the identity of your website.
 You have to have a domain name to be able to have a website.
 The domain name must also be registered for this to work. Think of a website as a
@@ -45,7 +45,7 @@ You must make sure all your information for your website in accurate when you
 are registering it. If you make a mistake on this information if will cause you
 website to have errors and page-load failures. This will not allow people to view your website.
 
-#### <c id="wb"></a> Web Browser
+#### <3 id="wb"></a> Web Browser
 We all have used a browser. Some have used chrome or maybe Explore form Microsoft.
 But have you stop to think how it works.
 When you enter an address in the browser it send a request to the server were the
