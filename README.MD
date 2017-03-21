@@ -26,7 +26,7 @@ These steps are easy for computer to understand. They do well in following steps
 
 ### Explanation of stand alone topics  
 
-#### <1 id="web-hosting"></a> Web Hosting
+#### <aa id="web-hosting"></a> Web Hosting
 Web Hosting is a service that allows you to be able to have you website put on the Web.
 This is possible because companies have servers were you are able to load your files that
 are needed for you website. You are basically renting the space out on the servers allowing
