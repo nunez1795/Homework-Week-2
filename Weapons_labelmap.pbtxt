@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'Weapon'
+}
+
+item {
+  id: 2
+  name: 'Weapon'
+}
+
+item {
+  id: 3
+  name: 'Weapon'
+}
+
+item {
+  id: 4
+  name: 'Weapon'
+}
+
+item {
+  id: 5
+  name: 'Weapon'
+}
+
+item {
+  id: 6
+  name: 'Weapon'
+}
